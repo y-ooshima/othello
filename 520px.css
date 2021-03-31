@@ -1,0 +1,12 @@
+.title{
+    font-size: 25px;
+    margin-left: 5px;
+}
+
+header .search{
+    margin-right: 5px;
+}
+
+input.hoge { 
+    width: 150px; 
+}
