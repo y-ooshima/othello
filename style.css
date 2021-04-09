@@ -37,6 +37,17 @@ header .search{
     align-items: center;
 }
 
+footer {
+    background-color:darksalmon;
+    width: 100%;
+    height: 80px;
+    display: flex;
+}
+
+.home_back {
+    margin:auto;
+}
+
 .ban_table{
     margin-top: 50px;
 }
